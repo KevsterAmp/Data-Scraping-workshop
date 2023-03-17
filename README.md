@@ -1,9 +1,13 @@
 # Web Scraping Workshop
-This repository contains the source code for a workshop on web scraping. The code is organized into two folders:
+The GitHub repository features the source codes for the colab notebooks that were presented and taught during the "Data Scraping Workshop" conducted by GDSC - PUP Manila. The source codes are inside the `src` folder:
 
-- `scraping-github-profiles`: Contains two Jupyter notebooks (`github_profiles_bs4.ipynb` and `github_profiles_selectolax.ipynb`) that demonstrate how to scrape Github profiles using Beautiful Soup and Selectolax, respectively.
+- `scraping-github-profiles`
 
-- `scraping-quotestoscrape`: Contains two Jupyter notebooks (`quotestoscrape_bs4.ipynb` and `quotestoscrape_selectolax.ipynb`) that demonstrate how to scrape the "Quotes to Scrape" website using Beautiful Soup and Selectolax, respectively.
+Contains two Jupyter notebooks (`github_profiles_bs4.ipynb` and `github_profiles_selectolax.ipynb`) that demonstrate how to scrape Github profiles using Beautiful Soup and Selectolax, respectively.
+
+- `scraping-quotestoscrape`: 
+
+Contains two Jupyter notebooks (`quotestoscrape_bs4.ipynb` and `quotestoscrape_selectolax.ipynb`) that demonstrate how to scrape the "Quotes to Scrape" website using Beautiful Soup and Selectolax, respectively.
 
 ## Dependencies
 The code in this repository depends on the following Python libraries:
