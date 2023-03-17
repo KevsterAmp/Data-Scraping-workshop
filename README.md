@@ -18,7 +18,7 @@ The code in this repository depends on the following Python libraries:
 
 You can install these dependencies by running the following command:
 
-    pip install beautifulsoup4 selectolax requests
+    pip install bs4 selectolax requests
 
 ## How to Use
 Download the following Google Colab notebooks as ipynb or py:
